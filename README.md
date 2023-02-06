@@ -2,7 +2,7 @@
 
 ## Description
 
-Exercizes inside the Odin Project's Full Stack JavaScript course in order to become familiar with recursion.
+Exercises inside the Odin Project's Full Stack JavaScript course in order to become familiar with recursion.
 
 To learn more about The Odin Project : https://www.theodinproject.com/
 
